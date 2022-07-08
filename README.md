@@ -25,8 +25,8 @@ Install using Fluffy Mod Manager 5000. You can grab that here: https://fluffyqua
 
 Motion Blur and Screen Space Reflections are not included within the base mod file because they have issues with them such as artifacting and/or ghosting issues. These issues tend to lower the image quality in motion but are included in alternative files for those that may be able to put up with the issues or for screenshotting purposes.
 
-Unfortunately, I have not found a way to enable and disable Screen Space Contact Shadows at all, let alone per mission. For now, stick to the dmc5config.ini edit for these contact shadows. Please note this setting may result in buggy shadows in certain areas of the game, especially in Mission 01 and Mission 03 during certain sections.
+I cannot add a setting that lets you change the rendering API between DirectX 11 and DirectX 12 while in-game instead of via dmc5config.ini.
 
-I cannot add a setting that lets you change the rendering API between DirectX11 and DirectX12 while in-game instead of via dmc5config.ini.
+I have not found a way to enable and disable Screen Space Contact Shadows at all, let alone per mission. For now, stick to the dmc5config.ini edit for these contact shadows. Please note this setting may result in buggy shadows in certain areas of the game, especially in Mission 01 and Mission 03 during certain sections - however these contact shadows can look great for screenshots in plenty of areas.
 
 As a safetey precaution for those that may be wondering, no, I cannot force ray tracing to be enabled. Devil May Cry 5 Special Edition runs on an updated version of the RE Engine and the current version DMC5 uses does not support ray tracing. If CAPCOM release an update or DMC5SE on PC, I will attempt to update the mod if it breaks.
